@@ -1,0 +1,14 @@
+*{
+	text-decoration: none;
+}
+
+.navbar{
+	position: fixed;
+}
+
+.logo img{
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	border-radius: 50px;
+	width: 75px;
+	height: 75px;
+}
